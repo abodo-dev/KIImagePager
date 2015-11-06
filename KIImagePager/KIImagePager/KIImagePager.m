@@ -188,7 +188,7 @@
     if([aImageUrls count] > 0) {
 //        [_scrollView setContentSize:CGSizeMake(_scrollView.frame.size.width * [aImageUrls count],
 //                                               _scrollView.frame.size.height)];
-        [_scrollView setContentSize:CGSizeMake(11999.00,
+        [_scrollView setContentSize:CGSizeMake(12000.00,
                                                _scrollView.frame.size.height)];
 
         for (int i = 0; i < [aImageUrls count]; i++) {
